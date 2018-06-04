@@ -1,0 +1,13 @@
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/seltestgooglesearch.dll
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/seltestgooglesearch.pdb
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/nunit.framework.dll
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/WebDriver.dll
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/WebDriver.Support.dll
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/nunit.framework.pdb
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/nunit.framework.xml
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/WebDriver.xml
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/bin/Debug/WebDriver.Support.xml
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/obj/Debug/seltestgooglesearch.csproj.CoreCompileInputs.cache
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/obj/Debug/seltestgooglesearch.dll
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/obj/Debug/seltestgooglesearch.pdb
+/Users/kai/Projects/seltestgooglesearch/seltestgooglesearch/obj/Debug/seltestgooglesearch.csprojResolveAssemblyReference.cache
